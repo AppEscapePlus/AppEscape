@@ -9,7 +9,7 @@
 	<a href="https://discord.gg/AppEscape">Support Discord</a> •
 	<a href="STILLWORKINGONIT.com">Website</a>
 </p>
-
+WARNING:WE ARE NOT HELD FOR ANY DAMAGE TO YOUR DEVICE BY INSTALLING APPESCAPE YOU ACCEPT OUR TERMS AND SERVICES
 ## Information
 This is the official repo for the AppEscape project, a jailbreak for arm64 devices on iOS 15.0+
 
